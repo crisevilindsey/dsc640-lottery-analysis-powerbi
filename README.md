@@ -1,5 +1,15 @@
 # The Jackpot Is Not a Promise: Lottery Data Analysis with Power BI
 
+
+<p align="center">
+  <a href="Lottery%20PBI%20Screenshot.png">
+    <img src="Lottery%20PBI%20Screenshot.png"
+         alt="Lottery Numbers Power BI Dashboard"
+         width="400">
+  </a>
+</p>
+
+
 ## Project Overview
 
 This project was developed as part of DSC 640 coursework at Bellevue University. It uses Microsoft Power BI to explore historical lottery winning numbers, number frequencies, game structures, multipliers, and jackpot odds.
